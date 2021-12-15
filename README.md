@@ -17,12 +17,12 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 
 | Name | Description | Link | Images |
 |------|-------------|------|--------|
-| [transistordatabase](https://github.com/upb-lea/transistordatabase) | A unified software engineering tool for managing and evaluating power transistors |  <ul> <li> <a href="https://upb-lea.github.io/transistordatabase/main/index.html">GitHub Pages</a></li> <li><a href="https://pypi.org/project/transistordatabase/">PyPI</a></li></ul> ||
-| [GeckoCIRCUITS](http://github.com/adminarchitect/core) | GeckoCIRCUITS is a fast and easy-to-use circuit simulator optimized for power electronics. |  <ul><li><a href="https://de.wikipedia.org/wiki/GeckoCircuits">Wikipedia</a></li> <li> <a href="https://github.com/geckocircuits/GeckoCIRCUITS">GitHub</a></li> </ul> ||
+| [transistordatabase](https://github.com/upb-lea/transistordatabase) | A unified software engineering tool for managing and evaluating power transistors |  <ul> <li> <a href="https://upb-lea.github.io/transistordatabase/main/index.html">GitHub Pages</a></li> <li><a href="https://pypi.org/project/transistordatabase/">PyPI</a></li></ul> | <ul><li><a href="https://github.com/upb-lea/transistordatabase/blob/main/sphinx/images/Virtual_Datasheet.png">Virtual Datasheet</a></li></ul> |
+| [GeckoCIRCUITS](http://github.com/adminarchitect/core) | GeckoCIRCUITS is a fast and easy-to-use circuit simulator optimized for power electronics. |  <ul><li><a href="https://de.wikipedia.org/wiki/GeckoCircuits">Wikipedia</a></li> <li> <a href="https://github.com/geckocircuits/GeckoCIRCUITS">GitHub</a></li> </ul> | ![](Images/Gecko_Screenshot.png)|
 
 ## Drawing and Documentation
 
 | Name | Description | Link | Images|
 |------|-------------|------|-------|
-| [Inkscape_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | [Readme](https://github.com/upb-lea/Inkscape_electric_Symbols#readme) ||
+| [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | [Readme](https://github.com/upb-lea/Inkscape_electric_Symbols#readme) ||
             
