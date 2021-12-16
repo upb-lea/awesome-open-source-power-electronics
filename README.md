@@ -20,7 +20,10 @@ Missing Tool? -> Open an Issue or open a pull request.
 
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
-| [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | [Readme](https://github.com/upb-lea/Inkscape_electric_Symbols#readme) |![](Images/Inkscape_symbols.png)|
+| [Inkscape Circuit Symbols (Inkscape Extension)](https://github.com/fsmMLK/inkscapeCircuitSymbols) | Circuit Symbols as Inkscape extension | <ul><li> <a href="https://github.com/fsmMLK/inkscapeCircuitSymbols">GitHub</a></li> </ul> |![](Images/Inkscape_Circuit_Symbols.png)|
+| [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | <ul><li> <a href="https://github.com/upb-lea/Inkscape_electric_Symbols">GitHub</a></li> </ul> |![](Images/Inkscape_symbols.png)|
+
+
 
 ## Magnetics
 | Name | Description | Link | Screenshot |
@@ -30,3 +33,15 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [Gmsh](https://gmsh.info/) | Gmsh is an open source 3D finite element mesh generator with a built-in CAD engine and post-processor |  <ul><li><a href="https://en.wikipedia.org/wiki/Gmsh">Wikipedia</a></li><li> <a href="https://gitlab.onelab.info/gmsh/gmsh">GitLab</a></li> </ul> | ![](Images/Gmsh.png)|
 | [Magnet](https://mag-net.princeton.edu/) | Data Driven Methods for Magnetic Core Loss Modeling |  <ul><li> <a href="https://github.com/PrincetonUniversity/Magnet">GitHub</a></li> </ul> | ![](Images/magnet.png)|
 | [ONELAB](https://www.onelab.info/) | ONELAB is an open-source, lightweight interface to finite element software |  <ul><li> <a href="https://gitlab.onelab.info/explore/projects">GitLab</a></li> </ul> | ![](Images/ONELAB.png)|
+| [Sparselizard](https://www.sparselizard.org/) | FEM simulation software |  <ul><li> <a href="https://github.com/halbux/sparselizard/">GitHub</a></li> </ul> | ![](Images/Sparselizard.png)|
+
+## Schematics and Layout
+| Name | Description | Link | Screenshot |
+|------|-------------|------|-------|
+| [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
+
+## Calculation and Automatisation
+| Name | Description | Link | Screenshot |
+|------|-------------|------|-------|
+| [Octave](https://www.gnu.org/software/octave/) | Scientific programming languate |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
+| [Python](https://www.python.org/) | Programming languate |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
