@@ -28,12 +28,14 @@ Missing Tool? -> Open an Issue or open a pull request.
 ## Magnetics
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
+| [AI-mag](https://ai-mag.github.io/) | Inductor Modeling and Design using Artificial Neural Network and Finite Element Method |  <ul><li> <a href="https://github.com/ethz-pes/AI-mag">GitHub</a></li> </ul> | ![](Images/AI-mag.png)|
 | [FEMMT](https://github.com/upb-lea/FEM_Magnetics_Toolbox) | Python toolbox to generate preconfigured structures for FEM simulation tools in power electronics |  <ul><li> <a href="https://github.com/upb-lea/FEM_Magnetics_Toolbox">GitHub</a></li> </ul> | ![](Images/FEMMT.png)|
 | [GetDP](https://getdp.info/) | GetDP is a free finite element solver using mixed elements to discretize de Rham-type complexes in one, two and three dimensions. |  <ul><li> <a href="https://gitlab.onelab.info/getdp/getdp">GitLab</a></li> </ul> | |
 | [Gmsh](https://gmsh.info/) | Gmsh is an open source 3D finite element mesh generator with a built-in CAD engine and post-processor |  <ul><li><a href="https://en.wikipedia.org/wiki/Gmsh">Wikipedia</a></li><li> <a href="https://gitlab.onelab.info/gmsh/gmsh">GitLab</a></li> </ul> | ![](Images/Gmsh.png)|
 | [Magnet](https://mag-net.princeton.edu/) | Data Driven Methods for Magnetic Core Loss Modeling |  <ul><li> <a href="https://github.com/PrincetonUniversity/Magnet">GitHub</a></li> </ul> | ![](Images/magnet.png)|
 | [ONELAB](https://www.onelab.info/) | ONELAB is an open-source, lightweight interface to finite element software |  <ul><li> <a href="https://gitlab.onelab.info/explore/projects">GitLab</a></li> </ul> | ![](Images/ONELAB.png)|
 | [Sparselizard](https://www.sparselizard.org/) | FEM simulation software |  <ul><li> <a href="https://github.com/halbux/sparselizard/">GitHub</a></li> </ul> | ![](Images/Sparselizard.png)|
+
 
 ## Schematics and Layout
 | Name | Description | Link | Screenshot |
