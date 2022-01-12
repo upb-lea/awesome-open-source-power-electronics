@@ -5,8 +5,11 @@ Missing Tool? -> Open an Issue or open a pull request.
 
 ## Table of Contents
 
-- [Circuit Simulation and Calculation](#circuitsimulation)
-- [Drawing and Documentation](#documentation)
+- [Circuit Simulation and Calculation](#drawing-and-documentation)
+- [Drawing and Documentation](#drawing-and-documentation)
+- [Magnetics](#magnetics)
+- [Schematics and Layout](#schematics-and-layout)
+- [Calculation and Automatisation](#Calculation-and-automatisation)
 
 ## Circuit Simulation and Calculation
 
