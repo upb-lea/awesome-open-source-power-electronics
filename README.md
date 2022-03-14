@@ -35,7 +35,10 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [FEMMT](https://github.com/upb-lea/FEM_Magnetics_Toolbox) | Python toolbox to generate preconfigured structures for FEM simulation tools in power electronics |  <ul><li> <a href="https://github.com/upb-lea/FEM_Magnetics_Toolbox">GitHub</a></li> </ul> | ![](Images/FEMMT.png)|
 | [GetDP](https://getdp.info/) | GetDP is a free finite element solver using mixed elements to discretize de Rham-type complexes in one, two and three dimensions. |  <ul><li> <a href="https://gitlab.onelab.info/getdp/getdp">GitLab</a></li> </ul> | |
 | [Gmsh](https://gmsh.info/) | Gmsh is an open source 3D finite element mesh generator with a built-in CAD engine and post-processor |  <ul><li><a href="https://en.wikipedia.org/wiki/Gmsh">Wikipedia</a></li><li> <a href="https://gitlab.onelab.info/gmsh/gmsh">GitLab</a></li> </ul> | ![](Images/Gmsh.png)|
+| [Litz Wire Losses with FEM and MATLAB](https://github.com/ethz-pes/litz_wire_losses_fem_matlab) | Litz Wire Losses with FEM and MATLAB | <ul><li> <a href="https://github.com/ethz-pes/litz_wire_losses_fem_matlab">GitHub</a></li> </ul> | |
 | [Magnet](https://mag-net.princeton.edu/) | Data Driven Methods for Magnetic Core Loss Modeling |  <ul><li> <a href="https://github.com/PrincetonUniversity/Magnet">GitHub</a></li> </ul> | ![](Images/magnet.png)|
+| [Magnetic Components Toolbox MATLAB](https://github.com/otvam/magnetic_components_toolbox_matlab) | MATLAB Toolbox for Power Magnetics: Model and Optimization  |  <ul><li> <a href="https://github.com/otvam/magnetic_components_toolbox_matlab">GitHub</a></li> </ul> | |
+| [Magnetic Mirroring Method with MATLAB](https://github.com/ethz-pes/mirroring_method_matlab) | Magnetic Mirroring Method with MATLAB  |  <ul><li> <a href="https://github.com/ethz-pes/mirroring_method_matlab">GitHub</a></li> </ul> | |
 | [ONELAB](https://www.onelab.info/) | ONELAB is an open-source, lightweight interface to finite element software |  <ul><li> <a href="https://gitlab.onelab.info/explore/projects">GitLab</a></li> </ul> | ![](Images/ONELAB.png)|
 | [Sparselizard](https://www.sparselizard.org/) | FEM simulation software |  <ul><li> <a href="https://github.com/halbux/sparselizard/">GitHub</a></li> </ul> | ![](Images/Sparselizard.png)|
 
@@ -48,5 +51,5 @@ Missing Tool? -> Open an Issue or open a pull request.
 ## Calculation and Automatisation
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
-| [Octave](https://www.gnu.org/software/octave/) | Scientific programming languate |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
-| [Python](https://www.python.org/) | Programming languate |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
+| [Octave](https://www.gnu.org/software/octave/) | Scientific programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
+| [Python](https://www.python.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
