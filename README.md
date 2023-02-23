@@ -53,6 +53,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 ## Calculation and Automatisation
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
+| [Julia](https://www.julialang.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/JuliaLang/julia">GitHub</a></li> </ul> | |
 | [Octave](https://www.gnu.org/software/octave/) | Scientific programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
 | [Python](https://www.python.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
-| [Julia](https://www.julialang.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/JuliaLang/julia">GitHub</a></li> </ul> | |
+
