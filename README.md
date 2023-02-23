@@ -40,7 +40,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [Magnet](https://mag-net.princeton.edu/) | Data Driven Methods for Magnetic Core Loss Modeling |  <ul><li> <a href="https://github.com/PrincetonUniversity/Magnet">GitHub</a></li> </ul> | ![](Images/magnet.png)|
 | [Magnetic Components Toolbox MATLAB](https://github.com/otvam/magnetic_components_toolbox_matlab) | MATLAB Toolbox for Power Magnetics: Model and Optimization  |  <ul><li> <a href="https://github.com/otvam/magnetic_components_toolbox_matlab">GitHub</a></li> </ul> | |
 | [Magnetic Mirroring Method with MATLAB](https://github.com/ethz-pes/mirroring_method_matlab) | Magnetic Mirroring Method with MATLAB  |  <ul><li> <a href="https://github.com/ethz-pes/mirroring_method_matlab">GitHub</a></li> </ul> | |
-| [MAS](https://openmagnetics.com/) | Magnetic Agnostic Structure (MAS) is a project providing a common language for defining any kind of magnetic for power electronics. |  <ul><li><a href="https://openmagnetics.com/">Homepage</a></li><li> <a href="https://github.com/OpenMagnetics/MAS">GitHub</a></li> </ul> | ![](Images/MAS.png)|
+| [OM](https://openmagnetics.com/) | OpenMagnetics (OM) is a project providing a common language for defining any kind of magnetic for power electronics. |  <ul><li><a href="https://openmagnetics.com/">Homepage</a></li><li> <a href="https://github.com/OpenMagnetics/MAS">GitHub</a></li> </ul> | ![](Images/MAS.png)|
 | [ONELAB](https://www.onelab.info/) | ONELAB is an open-source, lightweight interface to finite element software |  <ul><li> <a href="https://gitlab.onelab.info/explore/projects">GitLab</a></li> </ul> | ![](Images/ONELAB.png)|
 | [Sparselizard](https://www.sparselizard.org/) | FEM simulation software |  <ul><li> <a href="https://github.com/halbux/sparselizard/">GitHub</a></li> </ul> | ![](Images/Sparselizard.png)|
 
@@ -55,3 +55,4 @@ Missing Tool? -> Open an Issue or open a pull request.
 |------|-------------|------|-------|
 | [Octave](https://www.gnu.org/software/octave/) | Scientific programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
 | [Python](https://www.python.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
+| [Julia](https://www.julialang.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/JuliaLang/julia">GitHub</a></li> </ul> | |
