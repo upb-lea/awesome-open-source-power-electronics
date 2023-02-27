@@ -49,6 +49,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
 | [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
+| [Horizon](https://horizon-eda.org/) | Schematic and layout editor with focus on simple part management. | <ul><li> <a href="https://github.com/horizon-eda/horizon">GitHub</a></li> <li><a href="https://horizon-eda.readthedocs.io/en/latest/">Docs</a></li> </ul> | ![](Images/Horizon.png)|
 
 ## Calculation and Automatisation
 | Name | Description | Link | Screenshot |
