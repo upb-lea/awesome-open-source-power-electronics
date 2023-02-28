@@ -10,6 +10,8 @@ Missing Tool? -> Open an Issue or open a pull request.
 - [Magnetics](#magnetics)
 - [Schematics and Layout](#schematics-and-layout)
 - [Calculation and Automatisation](#Calculation-and-automatisation)
+- [Control Platform](#control-platform)
+
 
 ## Circuit Simulation and Calculation
 
@@ -59,3 +61,10 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [Octave](https://www.gnu.org/software/octave/) | Scientific programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
 | [Python](https://www.python.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
 
+
+
+## Control Platform
+
+| Name | Description | Link | Screenshot |
+|------|-------------|------|-------|
+| [UltraZohm](https://docs.ultrazohm.com/) | Open Source Rapid Control Prototyping Platform  |  <ul><li><a href="https://docs.ultrazohm.com/">Documentation</a></li><li> <a href="https://bitbucket.org/ultrazohm/ultrazohm_sw/">Bitbucket</a></li> </ul> | ![](Images/ultrazohm.png)|
