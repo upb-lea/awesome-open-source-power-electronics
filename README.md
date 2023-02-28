@@ -34,6 +34,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
 | [AI-mag](https://ai-mag.github.io/) | Inductor Modeling and Design using Artificial Neural Network and Finite Element Method |  <ul><li> <a href="https://github.com/ethz-pes/AI-mag">GitHub</a></li> </ul> | ![](Images/AI-mag.png)|
+| [Elmer](http://www.elmerfem.org/) | Finite element software for multiphysical problems including electro-thermal domains |  <ul><li> <a href="https://github.com/ElmerCSC/elmerfem">GitHub</a></li> </ul> | ![](Images/Elmer.png)|
 | [FEMMT](https://github.com/upb-lea/FEM_Magnetics_Toolbox) | Python toolbox to generate preconfigured structures for FEM simulation tools in power electronics |  <ul><li> <a href="https://github.com/upb-lea/FEM_Magnetics_Toolbox">GitHub</a></li> </ul> | ![](Images/FEMMT.png)|
 | [GetDP](https://getdp.info/) | GetDP is a free finite element solver using mixed elements to discretize de Rham-type complexes in one, two and three dimensions. |  <ul><li> <a href="https://gitlab.onelab.info/getdp/getdp">GitLab</a></li> </ul> | |
 | [Gmsh](https://gmsh.info/) | Gmsh is an open source 3D finite element mesh generator with a built-in CAD engine and post-processor |  <ul><li><a href="https://en.wikipedia.org/wiki/Gmsh">Wikipedia</a></li><li> <a href="https://gitlab.onelab.info/gmsh/gmsh">GitLab</a></li> </ul> | ![](Images/Gmsh.png)|
