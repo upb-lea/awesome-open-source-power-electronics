@@ -16,8 +16,8 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|--------|
 | [eSim](https://github.com/FOSSEE/eSim) | eSim is an open source EDA tool for circuit design, simulation, analysis and PCB design. |  <ul><li><a href="https://esim.fossee.in/home">Homepage</a></li> <li> <a href="https://github.com/FOSSEE/eSim">GitHub</a></li> </ul> | |
-| [GSEIM](https://github.com/gseim/gseim) | GSEIM (General-purpose Simulator with Explicit and Implicit Methods) is meant for simulation of electrical circuits, especially power electronic circuits, and also for numerical solution of ordinary differential equations (ODEs). |  <ul><li><a href="https://gseim.github.io/build/html/index.html">Homepage</a></li> <li> <a href="https://github.com/gseim/gseim">GitHub</a></li> </ul> | |
 | [GeckoCIRCUITS](https://github.com/geckocircuits/GeckoCIRCUITS) | GeckoCIRCUITS is a fast and easy-to-use circuit simulator optimized for power electronics. |  <ul><li><a href="https://de.wikipedia.org/wiki/GeckoCircuits">Wikipedia</a></li> <li> <a href="https://github.com/geckocircuits/GeckoCIRCUITS">GitHub</a></li> </ul> | ![](Images/Gecko_Screenshot.png)|
+| [GSEIM](https://github.com/gseim/gseim) | GSEIM (General-purpose Simulator with Explicit and Implicit Methods) is meant for simulation of electrical circuits, especially power electronic circuits, and also for numerical solution of ordinary differential equations (ODEs). |  <ul><li><a href="https://gseim.github.io/build/html/index.html">Homepage</a></li> <li> <a href="https://github.com/gseim/gseim">GitHub</a></li> </ul> | |
 | [transistordatabase](https://github.com/upb-lea/transistordatabase) | A unified software engineering tool for managing and evaluating power transistors |  <ul> <li> <a href="https://upb-lea.github.io/transistordatabase/main/index.html">Documentation</a></li> <li><a href="https://pypi.org/project/transistordatabase/">PyPI</a></li></ul> | ![](Images/Transistordatabase.png) |
 
 
@@ -50,8 +50,9 @@ Missing Tool? -> Open an Issue or open a pull request.
 ## Schematics and Layout
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
-| [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
 | [Horizon](https://horizon-eda.org/) | Schematic and layout editor with focus on simple part management. | <ul><li> <a href="https://github.com/horizon-eda/horizon">GitHub</a></li> <li><a href="https://horizon-eda.readthedocs.io/en/latest/">Docs</a></li> </ul> | ![](Images/Horizon.png)|
+| [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
+
 
 ## Calculation and Automatisation
 | Name | Description | Link | Screenshot |
