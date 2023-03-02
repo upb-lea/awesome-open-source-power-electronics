@@ -70,3 +70,4 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
 | [UltraZohm](https://docs.ultrazohm.com/) | Open Source Rapid Control Prototyping Platform  |  <ul><li><a href="https://docs.ultrazohm.com/">Documentation</a></li><li> <a href="https://bitbucket.org/ultrazohm/ultrazohm_sw/">Bitbucket</a></li> </ul> | ![](Images/ultrazohm.png)|
+| [AMDC](https://docs.amdc.dev/) | Advanced Motor Drive Controller  |  <ul><li><a href="https://docs.amdc.dev/">Documentation</a></li><li> <a href="https://github.com/Severson-Group/AMDC-Hardware">Hardware GitHub</a></li><li> <a href="https://github.com/Severson-Group/AMDC-Firmware">Firmware GitHub</a></li> </ul> | ![](Images/amdc.jpg)|
