@@ -29,6 +29,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 |------|-------------|------|-------|
 | [Inkscape Circuit Symbols (Inkscape Extension)](https://github.com/fsmMLK/inkscapeCircuitSymbols) | Circuit Symbols as Inkscape extension | <ul><li> <a href="https://github.com/fsmMLK/inkscapeCircuitSymbols">GitHub</a></li> </ul> |![](Images/Inkscape_Circuit_Symbols.png)|
 | [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) | Electrical symbol library for the vector graphics program Inkscape. | <ul><li> <a href="https://github.com/upb-lea/Inkscape_electric_Symbols">GitHub</a></li> </ul> |![](Images/Inkscape_symbols.png)|
+| [draw.io Desktop](https://github.com/jgraph/drawio-desktop) | Multiplatform diagramming and whiteboarding tool with electronics symbols | <ul> <li> <a href="ttps://github.com/jgraph/drawio-desktop">GitHub</a></li> </ul> | ![](Images/drawio_desktop.png) |
 
 
 
