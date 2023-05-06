@@ -5,12 +5,14 @@ Missing Tool? -> Open an Issue or open a pull request.
 
 ## Table of Contents
 
-- [Circuit Simulation and Calculation](#Circuit-Simulation-and-Calculation)
-- [Drawing and Documentation](#drawing-and-documentation)
-- [Magnetics](#magnetics)
-- [Schematics and Layout](#schematics-and-layout)
-- [Calculation and Automatisation](#Calculation-and-automatisation)
-- [Control Platform](#control-platform)
+- [Open-Source-Power-Electronic-Tools](#open-source-power-electronic-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Circuit Simulation and Calculation](#circuit-simulation-and-calculation)
+  - [Drawing and Documentation](#drawing-and-documentation)
+  - [Magnetics](#magnetics)
+  - [Schematics and Layout](#schematics-and-layout)
+  - [Calculation and Automatisation](#calculation-and-automatisation)
+  - [Control Platform](#control-platform)
 
 
 ## Circuit Simulation and Calculation
@@ -53,6 +55,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
 | [Horizon](https://horizon-eda.org/) | Schematic and layout editor with focus on simple part management. | <ul><li> <a href="https://github.com/horizon-eda/horizon">GitHub</a></li> <li><a href="https://horizon-eda.readthedocs.io/en/latest/">Docs</a></li> </ul> | ![](Images/Horizon.png)|
+[LibrePCB](https://librepcb.org/) | A powerful, innovative and intuitive EDA tool for everyone! | <ul><li> <a href="https://github.com/LibrePCB/LibrePCB">GitHub</a></li> <li><a href="https://librepcb.org/docs/">Docs</a></li> </ul> | ![](Images/LibrePCB.png)|
 | [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
 
 
