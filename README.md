@@ -52,8 +52,9 @@ Missing Tool? -> Open an Issue or open a pull request.
 ## Schematics and Layout
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
-| [Horizon](https://horizon-eda.org/) | Schematic and layout editor with focus on simple part management. | <ul><li> <a href="https://github.com/horizon-eda/horizon">GitHub</a></li> <li><a href="https://horizon-eda.readthedocs.io/en/latest/">Docs</a></li> </ul> | ![](Images/Horizon.png)|
+| [Horizon](https://horizon-eda.org/) | Schematic and layout editor with focus on simple part management. | <ul><li> <a href="https://github.com/horizon-eda/horizon">GitHub</a></li> <li><a href="https://horizon-eda.readthedocs.io/en/latest/">Docs</a></li> </ul> | ![](Images/Horizon.png)
 | [KiCad](https://www.kicad.org/) | Schematic and layout editor. |  <ul><li><a href="https://en.wikipedia.org/wiki/KiCad">Wikipedia</a></li><li> <a href="https://gitlab.com/kicad">GitLab</a></li> </ul> | ![](Images/KiCad.png)|
+|[LibrePCB](https://librepcb.org/) | A powerful, innovative and intuitive EDA tool for everyone! | <ul><li> <a href="https://github.com/LibrePCB/LibrePCB">GitHub</a></li> <li><a href="https://librepcb.org/docs/">Docs</a></li> </ul> | ![](Images/LibrePCB.png)|
 
 
 ## Calculation and Automatisation
