@@ -72,5 +72,6 @@ Missing Tool? -> Open an Issue or open a pull request.
 | Name | Description | Link | Screenshot |
 |------|-------------|------|-------|
 | [AMDC](https://docs.amdc.dev/) | Advanced Motor Drive Controller  |  <ul><li><a href="https://docs.amdc.dev/">Documentation</a></li><li> <a href="https://github.com/Severson-Group/AMDC-Hardware">Hardware GitHub</a></li><li> <a href="https://github.com/Severson-Group/AMDC-Firmware">Firmware GitHub</a></li> </ul> | ![](Images/amdc.jpg)|
+| [LCB - LEA Control Board](https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board) | Control board for power electronics usage. |  <ul><li> <a href="https://github.com/upb-lea/LCB-CCB-01_LEA_Control_Board">GitHub</a></li> </ul> | ![](Images/lcb_all_pcbs_labeled.png)|
 | [UltraZohm](https://docs.ultrazohm.com/) | Open Source Rapid Control Prototyping Platform  |  <ul><li><a href="https://docs.ultrazohm.com/">Documentation</a></li><li> <a href="https://bitbucket.org/ultrazohm/ultrazohm_sw/">Bitbucket</a></li> </ul> | ![](Images/ultrazohm.png)|
 
