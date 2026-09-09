@@ -71,6 +71,7 @@ Missing Tool? -> Open an Issue or open a pull request.
 | [Julia](https://www.julialang.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/JuliaLang/julia">GitHub</a></li> </ul> | |
 | [Octave](https://www.gnu.org/software/octave/) | Numerical programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/GNU_Octave">Wikipedia</a></li><li> <a href="https://gitlab.com/gnu-octave/octave">GitLab</a></li> </ul> | ![](Images/Octave.png)|
 | [Python](https://www.python.org/) | Programming language |  <ul><li><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia</a></li><li> <a href="https://github.com/python/">GitHub</a></li> </ul> | |
+| [RunMat](https://runmat.com/) | Open-source runtime for MATLAB-syntax numerical calculations, with automatic GPU acceleration and plotting. | <ul><li><a href="https://github.com/runmat-org/runmat">GitHub</a></li><li><a href="https://runmat.com/docs">Documentation</a></li></ul> | <img src="Images/RunMat.webp" alt="3D surface plot rendered in RunMat" width="300"> |
 | [Scilab/Xcos](https://www.scilab.org/) | Numerical programming language and dynamic system simulator |  <ul><li><a href="https://en.wikipedia.org/wiki/Scilab">Wikipedia</a></li><li> <a href="https://gitlab.com/scilab/scilab/">GitLab</a></li> </ul> | ![](Images/ScilabXcos.png)|
 
 
